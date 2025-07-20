@@ -41,8 +41,8 @@ Customer segmentation is a crucial business strategy that involves dividing cust
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Mohamedsul/customer-churn-prediction
-cd customer-churn-prediction
+git clone https://github.com/Mohamedsul/customer-segmentation/tree/main
+cd customer-segmentation
 ```
 
 ### 2. Create Virtual Environment (Recommended)
