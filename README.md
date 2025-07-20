@@ -41,7 +41,7 @@ Customer segmentation is a crucial business strategy that involves dividing cust
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Mohamedsul/customer-segmentation/tree/main
+git clone https://github.com/Mohamedsul/customer-segmentation
 cd customer-segmentation
 ```
 
